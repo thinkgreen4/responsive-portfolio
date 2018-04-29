@@ -262,12 +262,12 @@ input[type=submit] {
   #main-container{
       padding: 10px;
   }
-  #topbar{
+  #masthead{
       position: static;
       padding-left: 10px;
       padding-right: 10px;
   }
-  .portimage{
+  .profile-img{
       margin-right: 10px;
   }
 }
@@ -293,7 +293,7 @@ input[type=submit] {
       position: relative;
       right: 20px;
   }
-  #topbar{
+  #masthead{
       position: static;
   }
   p{
